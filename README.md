@@ -8,7 +8,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 ## 📂 Folder Structure
 Each topic has its own folder containing problems and solutions.
 
-| Day | Language     | Date        | What I Did                                                                              |
+| Day | Topic        | Date        | Questions                                                                               |
 |-----|--------------|------------ |---------------------------------------------------------------------------------------- |
 |  1  |              |             |                                                                                         |
 |  2  |              |             |                                                                                         |
@@ -49,6 +49,12 @@ Each topic has its own folder containing problems and solutions.
 - Code for at least 1 hour a day
 - One folder per day with README or solution
 - Push to GitHub daily
+
+
+
+🔗 https://itsajinkya.vercel.app | 📫 https://www.linkedin.com/in/ajinkya2004
+
+
 
 
 
