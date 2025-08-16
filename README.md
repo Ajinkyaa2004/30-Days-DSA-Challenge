@@ -5,7 +5,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 
 ---
 
-
+## 📅 Progress Log
 
 | Day | Topic        | Date        | Questions                                                                               |
 |-----|--------------|------------ |---------------------------------------------------------------------------------------- |
