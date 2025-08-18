@@ -9,7 +9,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 
 | Day | Topic        | Date        | Questions                                                                               |
 |-----|--------------|------------ |---------------------------------------------------------------------------------------- |
-|  1  | Array        | 18-08-20205 |  Find the largest element in an array                                                   |
+|  1  | Array        | 18-08-2025 |  Find the largest element in an array                                                   |
 |  2  |              |             |                                                                                         |
 |  3  |              |             |                                                                                         |
 |  4  |              |             |                                                                                         |
