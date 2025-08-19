@@ -9,8 +9,8 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 
 | Day | Topic        | Date        | Questions                                                                               |
 |-----|--------------|------------ |---------------------------------------------------------------------------------------- |
-|  1  | Array        | 18-08-2025 |  Find the largest element in an array                                                   |
-|  2  |              |             |                                                                                         |
+|  1  | Array        | 18-08-2025  | Find the largest element in an array                                                    |
+|  2  | Array        | 19-08-2025  | Reverse an array                                                                        |
 |  3  |              |             |                                                                                         |
 |  4  |              |             |                                                                                         |
 |  5  |              |             |                                                                                         |
