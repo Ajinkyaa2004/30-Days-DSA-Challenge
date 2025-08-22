@@ -13,7 +13,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 |  2  | Array        | 19-08-2025  | Reverse an array                                                                        |
 |  3  | Array        | 20-08-2025  | Find the missing number in 1…n                                                          |
 |  4  | Array        | 21-08-2025  | Move all zeros to the end                                                               |
-|  5  |              |             |                                                                                         |
+|  5  | Array        | 22-08-2025  | Find the second largest element                                                         |
 |  6  |              |             |                                                                                         |
 |  7  |              |             |                                                                                         |
 |  8  |              |             |                                                                                         |
