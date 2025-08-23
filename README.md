@@ -14,7 +14,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 |  3  | Array        | 20-08-2025  | Find the missing number in 1…n                                                          |
 |  4  | Array        | 21-08-2025  | Move all zeros to the end                                                               |
 |  5  | Array        | 22-08-2025  | Find the second largest element                                                         |
-|  6  |              |             |                                                                                         |
+|  6  | String       | 23-08-2025  | Check if a string is a palindrome                                                       |
 |  7  |              |             |                                                                                         |
 |  8  |              |             |                                                                                         |
 |  9  |              |             |                                                                                         |
