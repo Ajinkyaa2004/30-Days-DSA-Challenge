@@ -15,7 +15,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 |  4  | Array        | 21-08-2025  | Move all zeros to the end                                                               |
 |  5  | Array        | 22-08-2025  | Find the second largest element                                                         |
 |  6  | String       | 23-08-2025  | Check if a string is a palindrome                                                       |
-|  7  |              |             |                                                                                         |
+|  7  | String       | 25-08-2025  | Count vowels and consonants                                                             |
 |  8  |              |             |                                                                                         |
 |  9  |              |             |                                                                                         |
 | 10  |              |             |                                                                                         |
