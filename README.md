@@ -16,8 +16,8 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 |  5  | Array        | 22-08-2025  | Find the second largest element                                                         |
 |  6  | String       | 23-08-2025  | Check if a string is a palindrome                                                       |
 |  7  | String       | 25-08-2025  | Count vowels and consonants                                                             |
-|  8  | String.      | 25-08-2025  | Reverse each word in a sentence                                                         |
-|  9  |              |             |                                                                                         |
+|  8  | String       | 25-08-2025  | Reverse each word in a sentence                                                         |
+|  9  | String       | 26-08-2025  | Check if two strings are anagrams                                                       |
 | 10  |              |             |                                                                                         |
 | 11  |              |             |                                                                                         |
 | 12  |              |             |                                                                                         |
