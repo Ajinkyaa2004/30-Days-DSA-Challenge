@@ -18,8 +18,8 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 |  7  | String       | 25-08-2025  | Count vowels and consonants                                                             |
 |  8  | String       | 25-08-2025  | Reverse each word in a sentence                                                         |
 |  9  | String       | 26-08-2025  | Check if two strings are anagrams                                                       |
-| 10  | String.      | 28-08-2025  | Find the first non-repeating character.                                                 |
-| 11  |              |             |                                                                                         |
+| 10  | String       | 28-08-2025  | Find the first non-repeating character.                                                 |
+| 11  | Hashing      | 29-08-2025  | Two Sum problem                                                                         |
 | 12  |              |             |                                                                                         |
 | 13  |              |             |                                                                                         |
 | 14  |              |             |                                                                                         |
