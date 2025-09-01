@@ -21,8 +21,8 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 | 10  | String       | 28-08-2025  | Find the first non-repeating character.                                                 |
 | 11  | Hashing      | 29-08-2025  | Two Sum problem                                                                         |
 | 12  | Hashing      | 30-08-2025  | Find duplicates in an array                                                             |
-| 13  |              |             |                                                                                         |
-| 14  |              |             |                                                                                         |
+| 13  | Hashing      | 31-08-2025  | Frequency of elements in an array                                                       |
+| 14  | Hasing       | 01-09-2025  | Intersection of two arrays                                                              |
 | 15  |              |             |                                                                                         |
 | 16  |              |             |                                                                                         |
 | 17  |              |             |                                                                                         |
