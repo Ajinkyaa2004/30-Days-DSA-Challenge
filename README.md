@@ -24,7 +24,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 | 13  | Hashing      | 31-08-2025  | Frequency of elements in an array                                                       |
 | 14  | Hasing       | 01-09-2025  | Intersection of two arrays                                                              |
 | 15  | Hashing      | 02-09-2025  | Subarray with given sum                                                                 |
-| 16  |              |             |                                                                                         |
+| 16  | Recursion    | 03-09-2025  | Factorial of a number                                                                   |
 | 17  |              |             |                                                                                         |
 | 18  |              |             |                                                                                         |
 | 19  |              |             |                                                                                         |
