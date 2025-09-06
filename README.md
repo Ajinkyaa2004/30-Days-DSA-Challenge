@@ -26,8 +26,8 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 | 15  | Hashing      | 02-09-2025  | Subarray with given sum                                                                 |
 | 16  | Recursion    | 03-09-2025  | Factorial of a number                                                                   |
 | 17  | Recursion    | 04-09-2025  | Fibonacci sequence                                                                      |
-| 18  | Recursion    | 05-08-2025  | Print all subsets of a set/array                                                        |
-| 19  |              |             |                                                                                         |
+| 18  | Recursion    | 05-09-2025  | Print all subsets of a set/array                                                        |
+| 19  | Recursion    | 06-09-2025  | Tower of Hanoi                                                                          |
 | 20  |              |             |                                                                                         |
 | 21  |              |             |                                                                                         |
 | 22  |              |             |                                                                                         |
