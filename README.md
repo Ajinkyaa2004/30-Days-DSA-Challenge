@@ -30,7 +30,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 | 19  | Recursion                  | 06-09-2025  | Tower of Hanoi                                                  |
 | 20  | Recursion                  | 10-09-2025  | String permutations                                             |
 | 21  | Searching & Sorting        | 15-09-2025  | Binary Search                                                   |
-| 22  |                            |             |                                                                 |
+| 22  | Searching & Sorting        | 17-09-2025  |  First and Last occurrence in a sorted array                    |
 | 23  |                            |             |                                                                 |
 | 24  |                            |             |                                                                 |
 | 25  |                            |             |                                                                 |
