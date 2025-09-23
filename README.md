@@ -32,7 +32,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 | 21  | Searching & Sorting        | 15-09-2025  | Binary Search                                                   |
 | 22  | Searching & Sorting        | 17-09-2025  | First and Last occurrence in a sorted array                     |
 | 23  | Searching & Sorting        | 22-09-2025  | Find square root using Binary Search                            |
-| 24  |                            |             |                                                                 |
+| 24  | Searching & Sorting        | 23-09-2025  | Merge Sort                                                      |
 | 25  |                            |             |                                                                 |
 | 26  |                            |             |                                                                 |
 | 27  |                            |             |                                                                 |
