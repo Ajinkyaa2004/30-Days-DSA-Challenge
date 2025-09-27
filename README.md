@@ -22,7 +22,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 | 11  | Hashing                    | 29-08-2025  | Two Sum problem                                                 |
 | 12  | Hashing                    | 30-08-2025  | Find duplicates in an array                                     |
 | 13  | Hashing                    | 31-08-2025  | Frequency of elements in an array                               |
-| 14  | Hasing                     | 01-09-2025  | Intersection of two arrays                                      |
+| 14  | Hashing                    | 01-09-2025  | Intersection of two arrays                                      |
 | 15  | Hashing                    | 02-09-2025  | Subarray with given sum                                         |
 | 16  | Recursion                  | 03-09-2025  | Factorial of a number                                           |
 | 17  | Recursion                  | 04-09-2025  | Fibonacci sequence                                              |
