@@ -35,7 +35,7 @@ The goal is to practice one problem daily and stay consistent on GitHub 🚀.
 | 24  | Searching & Sorting        | 23-09-2025  | Merge Sort                                                      |
 | 25  | Searching & Sorting        | 25-09-2025  | Quick Sort                                                      |
 | 26  | Linked List                | 27-09-2025  | Reverse a linked list                                           |
-| 27  |                            |             |                                                                 |
+| 27  | Linked List                | 28-09-2025  | Detect a cycle in a linked list                                 |
 | 28  |                            |             |                                                                 |
 | 29  |                            |             |                                                                 |
 | 30  |                            |             |                                                                 |
